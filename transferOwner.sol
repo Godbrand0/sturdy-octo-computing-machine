@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.24;
+pragma solidity 0.8.20;
 
 
 // This Solidity code demonstrates a simple ownership transfer mechanism using a contract called Ownable.
