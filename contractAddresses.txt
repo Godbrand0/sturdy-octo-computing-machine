@@ -15,3 +15,9 @@ lisk testnet (hardhat)= 0x74C040571F7372A6C4a2Bf0B9cAA54dc51e26C57
 lisk testnet (hardhat)= 0x365B0d1214CEd2806Bee8bAF095d2397E4aE13F4
 monad testnet (hardhat)= 0x3945d5E56A4cA8F3bE468dc03605136fdcfE63EC
 lisk testnet (hardhat)= 0x29C7e61658bDb679Ec23A94b138A5dE08D21979d
+lisk testnet (hardhat)= 0x351E8F6E97947eDEC8FFCb8231cb0409bb603b61
+lisk testnet (factory/hardhat)= 0x26e1Ea3862Cc5306b14fa7d01FdcB48Be82dDAd6
+lisk testnet (factory/hardhat)= 0xe2Eed065158842688E1e6b38B36E38f3c262E4B0
+lisk testnet (hardhat)= 0x4C8bF793A20954533223989c6E6Ff91cab22b418
+monad testnet (foundry/factory)= 0x6D9bfC8CdccE41Dd223bae21DC265382E3ED4857
+
